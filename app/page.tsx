@@ -26,11 +26,6 @@ export default async function HomePage() {
       </div>
     )
   }
-
-
-
-  
-
   return (
     <div className="min-h-screen flex flex-col">
       <NewspaperHeader />
